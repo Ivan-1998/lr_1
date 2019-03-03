@@ -1,0 +1,23 @@
+[2019-02-11 22:20:16.352] [main] [info] update#setState idle
+[2019-02-11 22:20:46.353] [main] [info] update#setState checking for updates
+[2019-02-11 22:20:46.451] [main] [info] update#setState idle
+[2019-02-12 12:58:47.067] [main] [info] update#setState checking for updates
+[2019-02-12 12:58:57.236] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2019-02-12 12:58:57.239] [main] [info] update#setState idle
+[2019-02-12 13:58:47.074] [main] [info] update#setState checking for updates
+[2019-02-12 13:58:48.180] [main] [info] update#setState idle
+[2019-02-12 14:58:46.954] [main] [info] update#setState checking for updates
+[2019-02-12 14:58:47.567] [main] [info] update#setState idle
+[2019-02-12 15:58:46.956] [main] [info] update#setState checking for updates
+[2019-02-12 15:58:47.467] [main] [info] update#setState idle
+[2019-02-12 18:31:56.780] [main] [info] update#setState checking for updates
+[2019-02-12 18:32:07.440] [main] [info] update#setState idle
+[2019-02-12 19:31:56.783] [main] [info] update#setState checking for updates
+[2019-02-12 19:31:57.411] [main] [info] update#setState idle
+[2019-02-12 20:31:56.792] [main] [info] update#setState checking for updates
+[2019-02-12 20:31:57.437] [main] [info] update#setState idle
+[2019-02-13 14:44:19.386] [main] [info] update#setState checking for updates
+[2019-02-13 14:44:19.700] [main] [error] Error: net::ERR_NETWORK_CHANGED
+[2019-02-13 14:44:19.829] [main] [info] update#setState idle
+[2019-02-13 15:44:19.397] [main] [info] update#setState checking for updates
+[2019-02-13 15:44:20.193] [main] [info] update#setState available for download

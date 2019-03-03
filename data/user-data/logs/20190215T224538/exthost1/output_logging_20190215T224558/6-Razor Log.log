@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+Razor.VSCode version 1.0.0-alpha2-20181112.3
+--------------------------------------------------------------------------------
+Razor's trace level is currently set to 'Off'
+ - To log issues with the Razor experience in VSCode you can file issues at https://github.com/aspnet/Razor.VSCode
+ - To change Razor's trace level set 'razor.trace' to 'Off', 'Messages' or 'Verbose' and then restart VSCode.
+-----------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,150 @@
+[2019-02-13 22:48:12.054] [renderer1] [info] no standard startup: not a new window
+[2019-02-13 22:48:17.514] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-13 22:49:07.971] [renderer1] [error] Pending request cancelled: /v2/blockstructure: Error: Pending request cancelled: /v2/blockstructure
+	at RequestQueue.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:45:29)
+	at RequestQueueCollection.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:115:15)
+	at makeRequest.token.onCancellationRequested (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\server.js:413:40)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:230)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:952)
+	at Object.c (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:642:300)
+	at t._receiveCancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:643:64)
+	at t._receiveOneMessage (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:641:505)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:638:960
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:38:994
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at a (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:213)
+	at Socket.f._socketDataListener (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:434)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-02-13 22:49:07.972] [renderer1] [error] Pending request cancelled: /v2/codestructure: Error: Pending request cancelled: /v2/codestructure
+	at RequestQueue.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:45:29)
+	at RequestQueueCollection.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:115:15)
+	at makeRequest.token.onCancellationRequested (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\server.js:413:40)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:230)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:952)
+	at Object.c (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:642:300)
+	at t._receiveCancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:643:64)
+	at t._receiveOneMessage (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:641:505)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:638:960
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:38:994
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at a (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:213)
+	at Socket.f._socketDataListener (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:434)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-02-13 22:49:07.972] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-02-13 22:49:08.974] [renderer1] [error] Pending request cancelled: /codecheck: Error: Pending request cancelled: /codecheck
+	at RequestQueue.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:45:29)
+	at RequestQueueCollection.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:115:15)
+	at makeRequest.token.onCancellationRequested (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\server.js:413:40)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:230)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:952)
+	at DiagnosticsProvider._onDocumentRemove (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\features\diagnosticsProvider.js:163:50)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:133)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:522:425
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.$acceptDocumentsAndEditorsDelta (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:526:853)
+	at t._doInvokeHandler (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:644:118)
+	at t._invokeHandler (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:643:744)
+	at t._receiveRequest (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:642:322)
+	at t._receiveOneMessage (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:641:155)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:638:960
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:38:994
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at a (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:213)
+	at Socket.f._socketDataListener (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:434)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-02-13 22:49:11.299] [renderer1] [error] Pending request cancelled: /codecheck: Error: Pending request cancelled: /codecheck
+	at RequestQueue.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:45:29)
+	at RequestQueueCollection.cancelRequest (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\requestQueue.js:115:15)
+	at makeRequest.token.onCancellationRequested (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\omnisharp\server.js:413:40)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:230)
+	at e.cancel (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:48:952)
+	at DiagnosticsProvider._onDocumentRemove (E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\out\src\features\diagnosticsProvider.js:163:50)
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:133)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:522:425
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at e.$acceptDocumentsAndEditorsDelta (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:526:853)
+	at t._doInvokeHandler (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:644:118)
+	at t._invokeHandler (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:643:744)
+	at t._receiveRequest (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:642:322)
+	at t._receiveOneMessage (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:641:155)
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:638:960
+	at e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:38:994
+	at e.fire (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:44:113)
+	at a (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:213)
+	at Socket.f._socketDataListener (e:\tmp\fbi-61-62-labs\x64\vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:170:434)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-02-13 23:03:04.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-02-13 23:03:28.737] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-02-13 23:55:51.677] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-13 23:57:57.836] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-13 23:59:20.073] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-13 23:59:50.900] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-14 00:00:21.422] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-14 00:01:01.947] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-14 00:01:27.786] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:04:17.226] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:06:44.445] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:09:20.798] [renderer1] [error] Token cancellation requested: undefined
+[2019-02-14 00:09:43.600] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:10:18.406] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:11:45.985] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:15:06.150] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:16:25.533] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:18:22.871] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:20:57.929] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 00:24:27.091] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///E:/tmp/fbi-61-62-labs/x64/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-14 22:37:56.032] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-14 22:38:10.153] [renderer1] [info] no standard startup: not a new window

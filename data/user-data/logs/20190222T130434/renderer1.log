@@ -1,0 +1,40 @@
+[2019-02-22 13:04:38.908] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-22 13:04:54.399] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-22 13:05:01.471] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1037:175)
+    at i.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:638)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:277)
+    at Array.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:5626:80)
+    at t (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:105:891)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-22 13:05:09.346] [renderer1] [error] Error processing 'threads' request. Unknown Error: 0x8007139f: Error: Error processing 'threads' request. Unknown Error: 0x8007139f
+    at t.handleErrorResponse (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:701)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:2788:133
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-22 13:05:21.567] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1037:175)
+    at i.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:638)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:277)
+    at Array.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:5626:80)
+    at t (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:105:891)
+[2019-02-22 13:07:34.380] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1037:175)
+    at i.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:638)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:34:33)
+    at file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:1034:277)
+    at Array.<anonymous> (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:5626:80)
+    at t (file:///C:/data/tmp/lab/vscode/resources/app/out/vs/workbench/workbench.main.js:105:891)

@@ -1,0 +1,40 @@
+----- Running test method "webapi_trials.tests.PavlosControllerTests.LetTest" -----
+
+Microsoft (R) Build Engine version 15.9.20+g88f5fadfbe for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+tests\PavlovsControllerTests.cs(11,34): error CS0246: The type or namespace name 'PavlosController' could not be found (are you missing a using directive or an assembly reference?) [e:\TMP\fbi-61-62-labs\webapi-trials\webapi-trials.csproj]
+
+Build FAILED.
+
+tests\PavlovsControllerTests.cs(11,34): error CS0246: The type or namespace name 'PavlosController' could not be found (are you missing a using directive or an assembly reference?) [e:\TMP\fbi-61-62-labs\webapi-trials\webapi-trials.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:03.01
+
+
+----- Test Execution Summary -----
+
+Total tests: 0. Passed: 0. Failed: 0. Skipped: 0
+
+----- Running test method "webapi_trials.tests.PavlosControllerTests.LetTest" -----
+
+Microsoft (R) Build Engine version 15.9.20+g88f5fadfbe for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Program.cs(15,28): error CS0017: Program has more than one entry point defined. Compile with /main to specify the type that contains the entry point. [e:\TMP\fbi-61-62-labs\webapi-trials\webapi-trials.csproj]
+
+Build FAILED.
+
+Program.cs(15,28): error CS0017: Program has more than one entry point defined. Compile with /main to specify the type that contains the entry point. [e:\TMP\fbi-61-62-labs\webapi-trials\webapi-trials.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.83
+
+
+----- Test Execution Summary -----
+
+Total tests: 0. Passed: 0. Failed: 0. Skipped: 0
+

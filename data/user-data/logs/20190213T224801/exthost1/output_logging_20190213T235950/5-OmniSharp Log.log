@@ -1,0 +1,57 @@
+Starting OmniSharp server at 13.02.2019, 23:59:52
+    Target: e:\TMP\fbi-61-62-labs\react-trials
+
+OmniSharp server started.
+    Path: E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\.omnisharp\1.32.8\OmniSharp.exe
+    PID: 6392
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on Windows 6.2.9200.0 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 2 MSBuild instance(s)
+            1: Visual Studio Community 2017 15.9.28307.280 - "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin"
+            2: StandAlone 15.0 - "E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1\.omnisharp\1.32.8\msbuild\15.0\Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: Visual Studio Community 2017 15.9.28307.280 - "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin"
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in 'e:\TMP\fbi-61-62-labs\react-trials'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.WorkspaceInitializer
+        Project system 'OmniSharp.DotNet.DotNetProjectSystem' is disabled in the configuration.
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in 'e:\TMP\fbi-61-62-labs\react-trials'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in 'e:\TMP\fbi-61-62-labs\react-trials'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpWorkspaceOptionsProvider
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location 'e:\TMP\fbi-61-62-labs\react-trials' on host 8484.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: react-trials
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file 'e:\TMP\fbi-61-62-labs\react-trials\react-trials.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: react-trials

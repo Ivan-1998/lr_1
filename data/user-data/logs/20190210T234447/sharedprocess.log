@@ -1,0 +1,42 @@
+[2019-02-10 23:44:53.597] [sharedprocess] [info] main {"machineId":"c5c345fcbee426f316daa864937c3a92793dc9fdc02dcfe4bd0fb11552808062"}
+[2019-02-10 23:44:53.809] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:44:54.509] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:44:54.812] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:44:54.815] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:44:54.943] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:44:54.950] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:44:57.651] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:24.169] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:24.170] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:24.343] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:24.349] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:26.108] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:26.862] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:26.921] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:28.717] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:28.730] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:28.740] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:28.749] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:28.754] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:28.956] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:28.961] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:28.972] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:28.985] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:29.121] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-02-10 23:45:29.124] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:29.215] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:29.234] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:29.236] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-10 23:45:29.371] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:29.376] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:29.386] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:45:31.048] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp C:\Users\Fuzz\AppData\Local\Temp\854ab98d-2f05-4ab0-b5df-c99ba14c06b0
+[2019-02-10 23:45:33.660] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-10 23:46:24.261] [sharedprocess] [info] Extracted extension to E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\.ms-vscode.csharp-1.17.1: ms-vscode.csharp
+[2019-02-10 23:46:24.266] [sharedprocess] [info] Renamed to E:\tmp\fbi-61-62-labs\x64\vscode\data\extensions\ms-vscode.csharp-1.17.1
+[2019-02-10 23:46:24.277] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-02-10 23:46:24.336] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-02-10 23:49:16.708] [sharedprocess] [info] Scanned user extensions: 1
+[2019-02-10 23:49:16.713] [sharedprocess] [info] Scanned user extensions: 1
+[2019-02-10 23:49:16.804] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-10 23:49:16.812] [sharedprocess] [info] Scanned system extensions: 71
