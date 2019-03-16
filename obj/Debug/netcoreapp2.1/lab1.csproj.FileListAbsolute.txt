@@ -1,0 +1,14 @@
+/Users/durnev/Desktop/IS/lab1/bin/Debug/netcoreapp2.1/lab1.deps.json
+/Users/durnev/Desktop/IS/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.json
+/Users/durnev/Desktop/IS/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.dev.json
+/Users/durnev/Desktop/IS/lab1/bin/Debug/netcoreapp2.1/lab1.dll
+/Users/durnev/Desktop/IS/lab1/bin/Debug/netcoreapp2.1/lab1.pdb
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.csprojAssemblyReference.cache
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.csproj.CoreCompileInputs.cache
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.RazorAssemblyInfo.cache
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.RazorAssemblyInfo.cs
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfoInputs.cache
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfo.cs
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.RazorTargetAssemblyInfo.cache
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.dll
+/Users/durnev/Desktop/IS/lab1/obj/Debug/netcoreapp2.1/lab1.pdb

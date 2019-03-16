@@ -1,8 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-  </PropertyGroup>
+ <PropertyGroup>
+   <TargetFramework>netcoreapp2.1</TargetFramework>
+   <Version>0.0.2-rc.1</Version>
+   <Authors>Durnev Shevchenko</Authors>
+   <Company>sibtiger.com</Company>
+   <Product>NSTU Subject</Product>
+   <PackageId>MyApp</PackageId>
+   <FileVersion>0.0.1</FileVersion>
+ </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
