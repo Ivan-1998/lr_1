@@ -2,7 +2,7 @@
 
  <PropertyGroup>
    <TargetFramework>netcoreapp2.1</TargetFramework>
-   <Version>0.0.3-rc.1</Version>
+   <Version>0.0.4-rc.1</Version>
    <Authors>Durnev Shevchenko</Authors>
    <Company>Durnev I. and Shevchenko D.</Company>
    <Product>NSTU Subject</Product>

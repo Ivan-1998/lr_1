@@ -18,6 +18,11 @@ namespace lab1.Controllers
         {
             _memCache = memCache;
         }
+        [HttpGet]
+        public ActionResult<IEnumerable<Lab1Data>> Get()
+        {
+            return Ok(_memCache.All);
+        }
 
         [HttpGet("{id}")]
         public ActionResult<Lab1Data> Get(Guid id)
