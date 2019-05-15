@@ -4,6 +4,7 @@ using System.Net;
 using System.Net.Http;
 using Microsoft.AspNetCore.Mvc;
 using lab1.Models;
+using lab1.Storage;
 
 namespace lab1.Controllers
 {
@@ -11,20 +12,20 @@ namespace lab1.Controllers
     [ApiController]
     public class Lab1Controller : ControllerBase
     {
-        private static List<Lab1Data> _memCache = new List<Lab1Data>();
+        private static IStorage<Lab1Data> _memCache = new MemCache();
 
         [HttpGet]
         public ActionResult<IEnumerable<Lab1Data>> Get()
         {
-            return _memCache;
+             return Ok(_memCache.All);
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Lab1Data> Get(int id)
+        public ActionResult<Lab1Data> Get(Guid id)
         {
-            if (_memCache.Count <= id) return NotFound("Такого пользователя не существует!");
+            if (!_memCache.Has(id)) return NotFound("Такого пользователя не существует!");
 
-            return Ok(_memCache[id]);
+             return Ok(_memCache[id]);
         }
 
         [HttpPost]
@@ -40,9 +41,9 @@ namespace lab1.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Lab1Data value)
+        public IActionResult Put(Guid id, [FromBody] Lab1Data value)
         {
-            if (_memCache.Count <= id) return NotFound("Такого пользователя не сущесвует!");
+            if (!_memCache.Has(id)) return NotFound("Такого пользователя не сущесвует!");
 
             var validationResult = value.Validate();
 
@@ -55,9 +56,9 @@ namespace lab1.Controllers
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(Guid id)
         {
-            if (_memCache.Count <= id) return NotFound("Такого пользователя не сущесвует!");
+            if (!_memCache.Has(id)) return NotFound("Такого пользователя не сущесвует!");
 
             var valueToRemove = _memCache[id];
             _memCache.RemoveAt(id);
