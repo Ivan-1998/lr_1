@@ -12,7 +12,7 @@ namespace lab1.Controllers
     [ApiController]
     public class Lab1Controller : ControllerBase
     {
-        private IStorage<LabData> _memCache;
+        private IStorage<Lab1Data> _memCache;
 
         public Lab1Controller(IStorage<Lab1Data> memCache)
         {
